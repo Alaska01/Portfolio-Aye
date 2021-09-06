@@ -955,7 +955,7 @@ a:hover {
 }
 
 .work-content .w-more .w-ctegory {
-  color: #0078ff;
+  color: brown;
 }
 
 .work-content .w-like {
@@ -974,6 +974,7 @@ a:hover {
 
 .w-title {
   font-size: 1.2rem;
+  /* color: brown; */
 }
 
 /*--------------------------------------------------------------
