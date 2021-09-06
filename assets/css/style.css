@@ -159,7 +159,8 @@ a:hover {
 
 .subtitle-a {
   text-decoration: none;
-  color: #4e4e4e;
+  /* color: #4e4e4e; */
+  color: #fff;
 }
 
 .line-mf {
