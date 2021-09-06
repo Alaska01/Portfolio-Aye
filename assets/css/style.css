@@ -164,6 +164,10 @@ a:hover {
   color: #fff;
 }
 
+.subtitle-a a {
+  color: yellow;
+}
+
 .line-mf {
   width: 40px;
   height: 5px;
